@@ -31,23 +31,15 @@ ProManage/
 
 ---
 
-## ⚙️ Getting Started
 
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/yourusername/promanage.git
-cd promanage
-```
-
-### 2. Install Dependencies
+### . Install Dependencies
 
 ```bash
 cd client && npm install
 cd ../server && npm install
 ```
 
-### 3. Create `.env` in `/server`
+### . Create `.env` in `/server`
 
 ```
 PORT=5000
@@ -55,7 +47,7 @@ MONGO_URI=your_mongo_uri
 JWT_SECRET=your_secret
 ```
 
-### 4. Run App
+### . Run App
 
 ```bash
 # Backend
