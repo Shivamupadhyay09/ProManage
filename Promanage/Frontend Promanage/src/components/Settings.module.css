@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.settings {
+    display: flex;
+    flex-direction: column;
+    font-family: "Open Sans", sans-serif;
+}
+
+.header {
+    margin-top: 2.40vh;
+    margin-left: 2.22vw;
+    font-weight: 600;
+    font-size: 1.4vw;
+    font-family: Open Sans;
+}
+
+.form {
+    margin-top: 4.25vh;
+    margin-left: 2.3vw;
+    width: 25.75vw;
+    height: 45vh;
+}
+
+.container {
+    position: relative;
+}
+
+.name {
+    width: 25.75vw;
+    height: 5.5vh;
+    border: 0.07vw solid #D0D0D0;
+    border-radius: 0.4vw;
+    padding-left: 2vw;
+    font-weight: 400;
+    font-size: 1vw;
+}
+
+.email {
+    width: 25.75vw;
+    height: 5.5vh;
+    border: 0.07vw solid #D0D0D0;
+    border-radius: 0.4vw;
+    margin-top: 2vh;
+    padding-left: 2vw;
+    font-weight: 400;
+    font-size: 1vw;
+}
+
+.opassword {
+    width: 25.75vw;
+    height: 5.5vh;
+    border: 0.07vw solid #D0D0D0;
+    border-radius: 0.4vw;
+    margin-top: 2vh;
+    padding-left: 2vw;
+    font-weight: 400;
+    font-size: 1vw;
+}
+
+.npassword {
+    width: 25.75vw;
+    height: 5.5vh;
+    border: 0.07vw solid #D0D0D0;
+    border-radius: 0.4vw;
+    margin-top: 2vh;
+    padding-left: 2vw;
+    font-weight: 400;
+    font-size: 1vw;
+}
+
+.icon1 {
+    position: absolute;
+    top: 1.4vh;
+    left: 0.6vw;
+    color: #828282;
+}
+
+.icon2 {
+    position: absolute;
+    top: 3.4vh;
+    left: 0.6vw;
+    color: #828282;
+}
+
+.icon3 {
+    position: absolute;
+    top: 3.4vh;
+    left: 0.6vw;
+    color: #828282;
+}
+
+.icon4 {
+    position: absolute;
+    top: 3.4vh;
+    left: 0.6vw;
+    color: #828282;
+}
+
+.btn1 {
+    margin-top: 4vh;
+    width: 25.75vw;
+    height: 5.5vh;
+    background-color: #17A2B8;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 2vw;
+    font-weight: 400;
+    font-size: 1vw;
+}

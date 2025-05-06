@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.page {
+    display: flex;
+    flex-direction: row;
+    font-family: "Open Sans", sans-serif;
+}
+
+.left {
+    width: 65vw;
+    height: 100vh;
+    background-color: #17A2B8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.para h1 {
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+.para span {
+    color: #FFFFFF;
+}
+
+.first {
+    width: 35vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading {
+    text-align: center;
+    font-weight: 600;
+    margin-top: 25vh;
+    color: #343434;
+}
+
+.name {
+    margin-top: 6vh;
+    width: 22vw;
+    height: 4.5vh;
+    border: 1.38px solid #D0D0D0;
+    border-radius: 5px;
+    padding-left: 1.4vw;
+
+}
+
+.emaillogin {
+    margin-top: 6vh;
+    width: 22vw;
+    height: 4.5vh;
+    border: 1.38px solid #D0D0D0;
+    border-radius: 5px;
+    padding-left: 1.4vw;
+}
+
+.email {
+    margin-top: 2.3vh;
+    width: 22vw;
+    height: 4.5vh;
+    border: 1.38px solid #D0D0D0;
+    border-radius: 5px;
+    padding-left: 1.4vw;
+}
+
+.password {
+    margin-top: 2.3vh;
+    width: 22vw;
+    height: 4.5vh;
+    border: 1.38px solid #D0D0D0;
+    border-radius: 5px;
+    padding-left: 1.4vw;
+}
+
+.btn1 {
+    margin-top: 3vh;
+    width: 22vw;
+    height: 5vh;
+    background-color: #17A2B8;
+    border: none;
+    border-radius: 18px;
+    color: white;
+    font-weight: 400;
+}
+
+.first p {
+    margin-top: 3vh;
+    font-size: 1.8vh;
+    color: #828282;
+}
+
+.btn2 {
+    margin-top: 2vh;
+    width: 22vw;
+    height: 5vh;
+    background-color: white;
+    border: 1.38px solid #17A2B8;
+    border-radius: 18px;
+    color: #17A2B8;
+    font-weight: 400;
+}
+
+.container {
+    position: relative;
+}
+
+.icon0 {
+    position: absolute;
+    width: 1vw;
+    height: 2vh;
+    top: 7.3vh;
+    left: 0.2vw;
+    color: #828282;
+}
+
+.icon1l {
+    position: absolute;
+    width: 1vw;
+    height: 2vh;
+    top: 7.3vh;
+    left: 0.2vw;
+    color: #828282;
+}
+
+.icon1r {
+    position: absolute;
+    width: 1vw;
+    height: 2vh;
+    top: 3.5vh;
+    left: 0.2vw;
+    color: #828282;
+}
+
+.icon2 {
+    position: absolute;
+    width: 1vw;
+    height: 2vh;
+    top: 3.3vh;
+    left: 0.2vw;
+    color: #828282;
+}

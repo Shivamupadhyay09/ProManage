@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.analytics {
+    display: flex;
+    flex-direction: column;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+.header {
+    margin-top: 2.40vh;
+    margin-left: 2.22vw;
+    font-weight: 600;
+    font-size: 1.4vw;
+    font-family: Open Sans;
+}
+
+.data {
+    display: flex;
+    flex-direction: row;
+    margin-top: 4vh;
+    margin-left: 2.22vw;
+}
+
+.tasks {
+    width: 32vw;
+    height: 35vh;
+    background-color: #F9FCFF;
+    border-radius: 0.8vw;
+}
+
+.priorities {
+    width: 32vw;
+    height: 35vh;
+    margin-left: 1.2vw;
+    background-color: #F9FCFF;
+    border-radius: 0.8vw;
+}
